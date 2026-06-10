@@ -810,7 +810,7 @@ end`}
             📦 Download RBXM Assets
           </a>
           <a
-            href="https://discord.com"
+            href="https://discord.gg/kVbh6bKvfd"
             target="_blank"
             rel="noreferrer"
             className="inline-flex items-center justify-center rounded-lg bg-emerald-600 px-4 py-3 text-sm font-semibold text-white transition hover:bg-emerald-500"
