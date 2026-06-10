@@ -13,4 +13,5 @@ export const freeAssets: FreeAsset[] = [
   { name: 'PlayerListGui.rbxm' },
   { name: 'Settings.rbxm' },
   { name: 'YANG KATA NYA LISENSI !!!!!.rbxm' },
+  { name: 'Club fullkit by eldeto.rbxm' },
 ];
