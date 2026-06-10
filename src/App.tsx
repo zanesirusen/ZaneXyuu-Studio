@@ -51,7 +51,7 @@ function App() {
               </h1>
               <p className="max-w-3xl text-lg leading-8 text-slate-400 animate-fade-in delay-fade-100">
                 {page === 'home'
-                  ? 'Mulai dari halaman utama dengan desain profesional, animasi halus, dan navigasi yang jelas ke asset dan komunitas.'
+                  ? 'Welcome to ZaneXyuu Studio, your ultimate resource hub for Roblox Studio development. Explore our free assets, in-depth guides, and practical tutorials to elevate your game creation experience.'
                   : page === 'free-asset'
                   ? 'ZaneXyuu Studio menyediakan berbagai file RBXM dan asset gratis untuk membantu kamu dalam pengembangan Roblox.'
                   : page === 'systems'
