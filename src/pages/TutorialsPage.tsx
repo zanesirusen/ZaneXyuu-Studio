@@ -214,7 +214,7 @@ coroutine.resume(co)`}
             href="/free-asset"
             className="inline-flex items-center justify-center rounded-lg bg-cyan-600 px-4 py-3 text-sm font-semibold text-white transition hover:bg-cyan-500"
           >
-            📦 Download RBXM Assets
+            📦 Download Free Assets
           </a>
           <a
             href="https://discord.com"
